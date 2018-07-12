@@ -1,6 +1,5 @@
 #Author Yassine Messaoudi AKA TaKeO90
-#I create this Program to shutdown, Restart or Lock the windows after a period
-#u give it to the program 
+#I create this Program to shutdown, Restart or Lock the windows after a period you give it to the program 
 
 
 
